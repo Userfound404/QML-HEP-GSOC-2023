@@ -18,12 +18,14 @@ All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle
 - **For Task II**: I looked through previous work especially through 2 architectures 
     1. [ABCNet: An attention-based method for particle tagging](https://arxiv.org/pdf/2001.05311.pdf)
     2. [Jet tagging via particle clouds](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.101.056019)
+    
     The dataset [link](https://zenodo.org/record/3164691#.YigdGt9MHrB) is huge and for the computation power I had, the results weren't satisfying.
     I definetely think there is a scope for improvement here.
 - **For Task III**: I mainly spoke about how I was amazed by the state of quantum computers itself, being a ML enthusiast I spent the past month or two learning tensorflow quantum and cirq. I also learned about how the various research done on this topic. 
 - **For Task IV**: This was one of the most time consuming and most interesting task of all. I refered the previous work from the following paper.
     1. [Quantum semi-supervised generative adversarial network for enhanced data classification](https://arxiv.org/pdf/2010.13727.pdf)
     2. [Entangling Quantum Generative Adversarial Networks](https://arxiv.org/pdf/2105.00080.pdf)
+    
     There were two models, generator and discriminator that are trained together and the model was overfitting, as expected due to the small size dataset.
 - **For Task V**: Transformers are something I've worked before with, so it was a smooth ride along. I've discussed some ideas about implementing them as quantum transformers. most of the reference for this task was from the paper.
   1. [AN IMAGE IS WORTH $16X16$ WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
@@ -37,7 +39,7 @@ All tasks are done in the Google Colab platform.
 ### Evaluation Test
 - Task I: Quantum Computing Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_1_quantum_circuits.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lreqB949FE0kZAscmD9LB4LU85zNtc-K?usp=sharing)
 
-- Task IV: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_4_QGANs.ipynb)) [![Google Colab](https://colab.research.google.com/drive/1wOEfKupZtjJaAvOcPZcpCgSxOecA6rKO?usp=sharing)
+- Task IV: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_4_QGANs.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wOEfKupZtjJaAvOcPZcpCgSxOecA6rKO?usp=sharing)
 
 - Task II: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_2_CGNN_(1).ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3pMwhdL83UD9LT-SjSWq0VFmCSJ6zii?usp=sharing)
 
@@ -54,4 +56,4 @@ All tasks are done in the Google Colab platform.
 6. Please feel free to contact my email if you have trouble running the code.
 
 ## Closing Remarks
-Thanks a lot to all the mentors for the test. I had the opportunity to learn new things related to quantum machine learning and HEP during the process of finishing the test.
+Thanks a lot to all the mentors for the test. I had the opportunity to learn new things related to quantum machine learning and HEP during the process of finishing the test. Also on a personal note I chose this project the minute I saw because it had two things that I love, Quantum and GAN's. I've been working with classical GANs since long for generating deepfakes(for research ofcourse) and the thought of extending it for solving such a valuble problem is always my motivation.
