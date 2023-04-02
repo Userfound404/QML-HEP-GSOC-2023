@@ -14,7 +14,7 @@ This completed test is submitted as an application for project ideas:
 All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle.com/programs/2023/organizations/machine-learning-for-science-ml4sci) organization.
 
 ## Notes on tasks
-- **Task I** is trivial and straightforward. The only close-ended task in the test.
+- **Task I**: is trivial and straightforward.
 - **For Task II**: I looked through previous work especially through 2 architectures 
     1. [ABCNet: An attention-based method for particle tagging](https://arxiv.org/pdf/2001.05311.pdf)
     2. [Jet tagging via particle clouds](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.101.056019)
@@ -27,8 +27,9 @@ All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle
     2. [Entangling Quantum Generative Adversarial Networks](https://arxiv.org/pdf/2105.00080.pdf)
     
     There were two models, generator and discriminator that are trained together and the model was overfitting, as expected due to the small size dataset.
-- **For Task V**: Transformers are something I've worked before with, so it was a smooth ride along. I've discussed some ideas about implementing them as quantum transformers. most of the reference for this task was from the paper.
-  1. [AN IMAGE IS WORTH $16X16$ WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
+- **For Task VI**: This was simple and straight forward, I just had to implement two functions and train a model based on MNIST dataset.
+- **For Task VIII**: Transformers are something I've worked before with, so it was a smooth ride along. I've discussed some ideas about implementing them as quantum transformers. most of the reference for this task was from the paper.
+  1. [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 
 A quick note on other tasks, I've completed all the neccessary tasks for the project I'm proposing. the google document mentioned that doing all the tasks would likely increase my chance of selection. but while I spend time doing other tasks, It's high time I start writing a good proposal so I would spend the upcoming week for doing the proposal. I'll be uploading the remaining tasks as I complete them.
 
@@ -39,11 +40,16 @@ All tasks are done in the Google Colab platform.
 ### Evaluation Test
 - Task I: Quantum Computing Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_1_quantum_circuits.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lreqB949FE0kZAscmD9LB4LU85zNtc-K?usp=sharing)
 
-- Task IV: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_4_QGANs.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wOEfKupZtjJaAvOcPZcpCgSxOecA6rKO?usp=sharing)
-
 - Task II: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_2_CGNN_(1).ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3pMwhdL83UD9LT-SjSWq0VFmCSJ6zii?usp=sharing)
 
-- Task VIII: Transformers ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_8_transformers.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dtsYRxWHvpWwE9XCaKnY59I0L_xK2oR-?usp=sharing) <br>
+- Task III: Open Task Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/Gsoc_Task_3__open_task.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Userfound404/QML-HEP-GSOC-2023/blob/main/Gsoc_Task_3__open_task.ipynb#scrollTo=-to5lp4aFGwq)
+
+- Task IV: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_4_QGANs.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wOEfKupZtjJaAvOcPZcpCgSxOecA6rKO?usp=sharing)
+
+- Task VI: Quantum representation learning Part ([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_6_Representation_learning.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qJeoI_DO9F-XjlSeOyCbTAUSbaYz8dwv)
+
+- Task VIII: Transformers Part([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_8_transformers.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dtsYRxWHvpWwE9XCaKnY59I0L_xK2oR-?usp=sharing)
+<br>
 **Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please click the **Open in Colab** button to see the notebook in the browser via Google Colab.
 
 
