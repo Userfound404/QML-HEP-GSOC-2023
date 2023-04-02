@@ -1,6 +1,6 @@
 # QML-HEP-GSOC-2023
   
-*A dedicated submission repository for the Google Summer of Code 2021 [QML-HEP Projects](https://ml4sci.org/gsoc/projects/2023/project_QMLHEP.html).*
+*A dedicated submission repository for the Google Summer of Code 2023 [QML-HEP Projects](https://ml4sci.org/gsoc/projects/2023/project_QMLHEP.html).*
   
 <br>
 
