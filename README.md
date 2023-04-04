@@ -10,6 +10,8 @@ The tasks description can be read [here](https://docs.google.com/document/d/1dqB
 This completed test is submitted as an application for project ideas:
 1. [Implementation of Quantum Generative Adversarial Networks to Perform High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2023/proposal_QMLHEP1.html)
  <br>
+ 
+ ### Here is my proposal- [Implementation of Quantum Generative Adversarial Networks to Perform High Energy Physics Analysis at the LHC](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/Gsoc_proposal_2023_QGAN_final.pdf)
 
 All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle.com/programs/2023/organizations/machine-learning-for-science-ml4sci) organization.
 
