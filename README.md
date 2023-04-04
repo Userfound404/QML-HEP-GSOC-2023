@@ -33,7 +33,9 @@ All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle
 - **For Task VIII**: Transformers are something I've worked before with, so it was a smooth ride along. I've discussed some ideas about implementing them as quantum transformers. most of the reference for this task was from the paper.
   1. [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 
-A quick note on other tasks, I've completed all the neccessary tasks for the project I'm proposing. the google document mentioned that doing all the tasks would likely increase my chance of selection. but while I spend time doing other tasks, It's high time I start writing a good proposal so I would spend the upcoming week for doing the proposal. I'll be uploading the remaining tasks as I complete them.
+A quick note on other tasks, I've completed all the neccessary tasks for the project I'm proposing. I have completed 6/8 tasks and I really thankfull for those tasks as they helped me learn a lot.
+
+A quick thanks to Tom Magorsh for quick response and guidance.
 
 ## Platform
 All tasks are done in the Google Colab platform.
@@ -52,7 +54,7 @@ All tasks are done in the Google Colab platform.
 
 - Task VIII: Transformers Part([Notebook file](https://github.com/Userfound404/QML-HEP-GSOC-2023/blob/main/GsoC_task_8_transformers.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dtsYRxWHvpWwE9XCaKnY59I0L_xK2oR-?usp=sharing)
 <br>
-**Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please click the **Open in Colab** button to see the notebook in the browser via Google Colab.
+ **Note** : GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please click the **Open in Colab** button to see the notebook in the browser via Google Colab.
 
 
 ## How to Run the Code
